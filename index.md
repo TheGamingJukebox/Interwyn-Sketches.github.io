@@ -2,7 +2,7 @@
 
 This is full of basically nothing and everything - tests, random bits of code I probably realized wouldn't work about two lines in, and other knick knacks. Enjoy if you want!
 
-New Test Variables For [Classic FurrowBot] - [Soft Code]:
+
 
 
 
@@ -15,21 +15,25 @@ New Test Variables For [Classic FurrowBot] - [Soft Code]:
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+[Classic FurrowBot] - [Soft Code Test Variables]:
+void alignment()
+{
+    while(analog(5) < 20) {
+        if(analog(1) < 20) {
+         //routinethings
+        } else {
+          while(analog(1) > 20) {
+            motor(3, 20); 
+          }
+          
+        }
+      }
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+}
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
