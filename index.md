@@ -2,7 +2,13 @@
 
 This is full of basically nothing and everything - tests, random bits of code I probably realized wouldn't work about two lines in, and other knick knacks. Enjoy if you want!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+New Test Variables For [Classic FurrowBot] - [Soft Code]:
+
+
+
+
+
+
 
 ### Markdown
 
