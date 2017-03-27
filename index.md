@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Sketch Tests!
 
-You can use the [editor on GitHub](https://github.com/TheGamingJukebox/user-name-cc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is full of basically nothing and everything - tests, random bits of code I probably realized wouldn't work about two lines in, and other knick knacks. Enjoy if you want!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
