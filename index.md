@@ -32,9 +32,12 @@ void alignment()
 
 - Finish routine; Easy to do, but make sure plenty of alignments in there
 
-- double check top hat bump detection; have Tijmen take off the bump sensor, comment out variable but keep everything just in case
+- double check top hat bump detection; have Tijmen take off the bump sensor, 
+comment out variable but keep everything just in case
 
-- redo measurement for straight; has to be a few centimeter's farther because bot stops sooner than it did due to top hat detecting the bump sooner than the bump sensor did
+- redo measurement for straight; has to be a few centimeter's farther 
+because bot stops sooner than it did due to top hat detecting the 
+bump sooner than the bump sensor did
 
 ```
 
