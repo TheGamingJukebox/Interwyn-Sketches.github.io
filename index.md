@@ -25,7 +25,7 @@ void alignment()
 }
 
 ```
-[Felix Work Area](https://thegamingjukebox.github.io/Interwyn-Sketches.github.io/Felix To Do)
+[Felix Work Area](Interwyn-Sketches.github.io/blob/master/Felix%20-%20To%20Do)
 ```markdown
 [Classic FurrowBot] - [Things To Do]:
 
